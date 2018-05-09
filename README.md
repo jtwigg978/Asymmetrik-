@@ -7,4 +7,4 @@ Business Card OCR
    
    If no name is inputted, then the name field will print as "null". If no phone is inputted, then there will be no number displayed. And lastly, if there is no email, then both the email and name fields will be "null". This is due to the fact that I thought the best way of finding out which line the name was on is through the email address. The code will work and output everything as long as all 3 of those are inputted somewhere in the document. 
    
-   I apologize if my files are not formatted correctly on github, I have never uploaded a document before. 
+   I apologize if my files are not formatted correctly on github, I have never uploaded a document here before. However, I think that it should all work correctly. 
