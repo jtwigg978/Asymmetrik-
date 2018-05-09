@@ -1,9 +1,5 @@
-Adam Orkin
-Software Engineer
-Decision & Security Technologies
-ABC Technologies
-123 North 11th Street
-Suite 229
-Frederick, MD 20740
-Tel: +1 (240) 409-9776
-orkin.adam@gmail.com
+ASYMMETRIK LTD
+Mike Smith
+Senior Software Engineer
+(410)555-1234
+msmith@asymmetrik.com
