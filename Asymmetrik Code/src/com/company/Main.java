@@ -11,7 +11,7 @@ public class Main {
            This is how I tested my code.
          */
         String document = "";
-        String filePath = "C:/Users/Jacob/Desktop/MikeSmith.txt";
+        String filePath = "./MikeSmith.txt";
         try
         {
             document = new String (Files.readAllBytes(Paths.get(filePath)));
